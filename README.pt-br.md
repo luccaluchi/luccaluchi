@@ -1,16 +1,61 @@
-### Hi there 👋
+# Olá, seja bem-vindo(a)! 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccaluchi/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaaluchi@gmail.com)
 
-<!--
-**luccaluchi/luccaluchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de dados e um pouco dos projetos de automação que tenho como hobbie.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou o Lucca, estudante de engenharia de software e entusiasta em engenharia de dados em processo de formação. Busco criar soluções impactantes para me desafiar e melhorar a vida das pessoas. Aqui será o local aonde mostrarei um pouquinho mais de mim deixarei a minha criatividade exposta par que possam ter acesso. Fique a vontade para explorar o meu perfil.
+- 💻 Imerso(a) em um projeto colaborativo e interdisciplinas da universidade que reúne uma equipe de desenvolvedores talentosos para criar uma aplicação completa.
+- 🌱 Atualmente aprimorando meus conhecimentos em banco de dados, SQL, ETL e suas ferramentas.
+- ❓ Dúvidas sobre engenharia de dados e duas tecnologias? Pergunte para aprimorar nossos conhecimentos juntos!
+- ⚡ Curiosidade: Sei fazer uma costelinha muito melhor do que aquele restaurante famoso que serve pão australiano :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<br/>  
+
+
+## Github Stats
+
+![luccaluchi's Stats](https://github-readme-stats.vercel.app/api?username=luccaluchi&show_icons=true&hide_border=true&count_private=true&theme=transparent)
+![luccaluchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaluchi&show_icons=true&hide_border=true&layout=compact&theme=transparent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=luccalushi&&style=flat-square)  
+
