@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo(a)! 👋
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccaluchi/){:target="_blank"}
+<a href="(https://www.linkedin.com/in/luccaluchi/" target="_blank"><img src="[caminho/para/o/ícone/linkedin.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Ícone do LinkedIn"></a>
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaaluchi@gmail.com)
 
 Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de dados e um pouco dos projetos de automação que tenho como hobbie.
