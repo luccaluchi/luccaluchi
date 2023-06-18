@@ -2,7 +2,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccaluchi/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaaluchi@gmail.com)
 
-Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de dados e um pouco dos projetos de automação que tenho como hobbie.
+Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de software, engenharia de dados e um pouco dos projetos de automação que tenho como hobbie.
 
 ## 🚀 Sobre mim
 Sou o Lucca, estudante de engenharia de software e entusiasta em engenharia de dados em processo de formação. Busco criar soluções impactantes para me desafiar e melhorar a vida das pessoas. Aqui será o local aonde mostrarei um pouquinho mais de mim e deixarei a minha criatividade exposta par que possam ter acesso. Fique a vontade para explorar o meu perfil.
