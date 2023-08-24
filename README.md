@@ -5,7 +5,7 @@
 Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de software, engenharia de dados e um pouco dos projetos de automação que tenho como hobbie.
 
 ## 🚀 Sobre mim
-Sou o Lucca, estudante de engenharia de software, com paixão por desenvolvimeto back-end e um entusiasta da engenharia de dados em processo de formação. Busco criar soluções impactantes para me desafiar e melhorar a vida das pessoas. Aqui será o local aonde mostrarei um pouquinho mais de mim e deixarei a minha criatividade exposta par que possam ter acesso. Fique a vontade para explorar o meu perfil.
+Estudante de engenharia de software, com paixão por desenvolvimeto back-end e um entusiasta da engenharia de dados em processo de formação. Busco criar soluções impactantes para me desafiar e melhorar a vida das pessoas. Aqui será o local aonde mostrarei um pouquinho mais de mim e deixarei a minha criatividade exposta par que possam ter acesso. Fique a vontade para explorar o meu perfil.
 - 💻 Imerso em um projeto colaborativo e interdisciplinar da universidade que reúne uma equipe de desenvolvedores para criar uma aplicação completa(Spring, MySQL, REACT...).
 - 🌱 Atualmente aprimorando meus conhecimentos em back-end, banco de dados e seus respectivos frameworks e ferramentas.
 - ❓ Dúvidas sobre back-end, engenharia de dados e suas tecnologias? Pergunte para aprimorar-mos nossos conhecimentos juntos!
