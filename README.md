@@ -5,7 +5,7 @@
 Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de software e um pouco dos projetos de automação que tenho como hobbie.
 
 ## 🚀 Sobre mim
-Estudante de engenharia de software, com paixão por desenvolvimento backend e em processo de formação e em busca de criar soluções impactantes.
+Estudante de engenharia de software, com paixão por desenvolvimento backend, em processo de formação e em busca de criar soluções impactantes.
 Fique à vontade para explorar o meu perfil.
 - 💻 Imerso em um projeto colaborativo e interdisciplinar da universidade que reúne uma equipe de desenvolvedores para criar uma aplicação completa para um cliente real.
 - 🌱 Atualmente aprimorando meus conhecimentos em back-end, banco de dados e seus respectivos frameworks e ferramentas.
