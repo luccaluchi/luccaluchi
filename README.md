@@ -5,8 +5,9 @@
 Este é o meu espaço aqui no GitHub, onde você pode acompanhar meus trabalhos relacionados à engenharia de software e um pouco dos projetos de automação que tenho como hobbie.
 
 ## 🚀 Sobre mim
-Estudante de engenharia de software, com paixão por desenvolvimento backend em processo de formação. Busco criar soluções impactantes para me desafiar e melhorar a vida das pessoas. Aqui será o local onde mostrarei um pouquinho mais de mim e deixarei a minha criatividade exposta para que possam ter acesso. Fique à vontade para explorar o meu perfil.
-- 💻 Imerso em um projeto colaborativo e interdisciplinar da universidade que reúne uma equipe de desenvolvedores como líder de desenvolvimento backend para criar uma aplicação completa para um cliente real com Spring Framework, MySQL e Next.js(React).
+Estudante de engenharia de software, com paixão por desenvolvimento backend e em processo de formação e em busca de criar soluções impactantes.
+Fique à vontade para explorar o meu perfil.
+- 💻 Imerso em um projeto colaborativo e interdisciplinar da universidade que reúne uma equipe de desenvolvedores para criar uma aplicação completa para um cliente real.
 - 🌱 Atualmente aprimorando meus conhecimentos em back-end, banco de dados e seus respectivos frameworks e ferramentas.
 - ❓ Dúvidas sobre backend com Java, Spring framework e banco de dados relacional? Pergunte para aprimorarmos nossos conhecimentos juntos!
 - ⚡ Curiosidade: Sei fazer uma costelinha muito melhor do que aquele restaurante famoso que serve pão australiano :D
